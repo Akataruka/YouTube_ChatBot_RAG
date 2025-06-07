@@ -61,7 +61,6 @@ export GROQ_API_KEY=your_grq_api_key_here
 
 * “What are the key takeaways from this video?”
 * “Summarize the steps explained by the speaker.”
-* “What was discussed in the last 5 minutes?”
 
 ## 🤝 Contributing
 
@@ -70,8 +69,3 @@ Feel free to fork this project and submit pull requests. Issues and feature sugg
 ## 📄 License
 
 MIT License
-
-```
-
-Let me know if you'd like this tailored for a specific GRQ provider or pipeline tool like LangChain or LlamaIndex.
-```
